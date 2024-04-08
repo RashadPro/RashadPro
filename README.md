@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/rashadpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashadpro" height="30" width="40" /></a>
 <a href="https://fb.com/rashad.pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashad.pro" height="30" width="40" /></a>
 <a href="https://instagram.com/flutter.rashad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutter.rashad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/flutter.rashad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flutter.rashad" height="30" width="40" /></a>
+<a href="https://www.youtube.com//@flutter.rashad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flutter.rashad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
