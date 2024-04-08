@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rashad</h1>
 <h3 align="center">Mobile App Developer</h3>
-
+<img align="left" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="rashadpro">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadpro&label=Profile%20views&color=0e75b6&style=flat" alt="rashadpro" /> </p>
-<img align="left" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="rashadpro">
+
 - 🌱 I’m currently learning **FLUTTER Development**
 
 - 💬 Ask me about **anything**
