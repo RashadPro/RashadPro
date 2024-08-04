@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Programmer from Egypt</h3>
 <p align="center">I'm hooked on computer tech 🌐! Since I was a kid, software engineering has been my jam. I love diving into new tech 💻 and bringing ideas to life. Let's create some magic together! ✨
 
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
