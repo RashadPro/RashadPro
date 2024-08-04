@@ -11,9 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
 <br><br>
 
-![Junaid Jameel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunaidJameel&show_icons=true&theme=dark)
+![Mohamed Rashad's GitHub stats](https://github-readme-stats.vercel.app/api?username=RashadPro&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidJameel&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashadPro&theme=dark)
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="rashadpro">
