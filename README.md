@@ -1,14 +1,21 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Junaid Jameel</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Rashad</h1>
+<h3 align="center">A passionate Programmer from Egypt</h3>
 <p align="center">I'm hooked on computer tech 🌐! Since I was a kid, software engineering has been my jam. I love diving into new tech 💻 and bringing ideas to life. Let's create some magic together! ✨
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
+<br><br>
 
-<h1 align="center">Hi 👋, I'm Mohamed Rashad</h1>
-<h3 align="center">Mobile App Developer</h3>
+![Junaid Jameel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunaidJameel&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidJameel&theme=dark)
+
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="rashadpro">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadpro&label=Profile%20views&color=0e75b6&style=flat" alt="rashadpro" /> </p>
 
