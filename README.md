@@ -27,7 +27,7 @@
 </p>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,cpp,ps,html)](https://skillicons.dev)
 <br><br>
 
 ![Mohamed Rashad's GitHub stats](https://github-readme-stats.vercel.app/api?username=RashadPro&show_icons=true&theme=dark)
